@@ -1,5 +1,5 @@
 
 # hello_world
-Learning Puposes
+Learning Purposes
 
-This will ben my first commit.
+This will be my first commit.
